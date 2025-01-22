@@ -1,4 +1,4 @@
-# Human Recognition using Python and OpenCV
+# Human Recognition using Python 3.13.1 and OpenCV
 
 Create virtual env
 
